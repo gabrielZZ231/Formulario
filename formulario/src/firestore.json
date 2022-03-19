@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bd-cidades",
+  "private_key_id": "9c1fb06cd7df2a00c2a3d0fa1c8d675580e1102d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4MrxU/N652Ijq\nbJwqwq+kLtBA68tr3TGhCMfUljZwQxADEm/+fwP8/nBT4/um4E/jk/NexD4Q+Gax\n2IE5HXknJzxiC0ViB3wAZSDHmYJr2nA8iBBhCsRtqrPkcH63FsVwDLs9IFHVrFoJ\nQc9yYSVoS0TU0Av2kt9RJhhbKvw9k7USVDcIw1JtZ4pmSFToaYQUcNiTy8QMK5QZ\n1cRSXA14gTGo0wpL7O9FylrV4W95twzBzKPZradzdNLnqY0exro5Aqrhk70nsWHM\nciXDov4Yrj1y/2ksS1H9CWyjzJTcSlkh+fjP5ftLS6ek6pajpAFiwMDdVdCOSPk3\nxVUmW6kRAgMBAAECggEAEMjuyH/Se/TzZQlIoczj3H43k/LosoeRgi8epoyZoVk7\nGEyR0Asa/e7hpYNc5zQBk6djwfr3/Ovlz8b+34mEBMFai0Sjqe8sqYyNlCK088cP\n+zQa6fzlMWkgw2xM37o/e5ptZYCQdHwkKDvK/41Cr2JMf2gF7w4rM2XZSlV8bs/j\nUon+m2VamRpVqZpJsmc191Nj1U49cMlkZM51+eBFhpXoS8qwr7lqYK7guTCjQBT8\niUfp53u+f8eUO2cb8i2+Q8dhM4mJ2rtbytLPjI1Van3IvswsloZYb+rpEBvTOUji\nveySt7a9sJkPMHsc62JTqx7+kitun/ya7Xkujqx0wQKBgQDg2+qqAbnbmaERIPbP\noqVEMAxHO470TqeJwdyZCRfsAYTMSn3knrza0AXjWUtjxykmIqMu+jH8thoxaNrj\n/GQ+uB6cXTyICpg2LDKDl1Jx5njJ+mmolPXTbmt19TwN3oRGyMdo69k5n0REYVgF\n+HRZDOTRnwCWDEY9IAIdOTUBRQKBgQDRtT3HGFtXACUtJGYga58yaLUFkcLzykEe\nI7mbaTvtC4AhZRAybtrxOCgzPW2Phk5CmiuMj64qKPI1AB8bRqnLK5nw5k1fzB0t\nayda3sYW65lHCUN5fPlKKaaql7it3eBOEeWLw2iaQ1D0xfXIzYMH86p6xIFu1ITs\ns0c/IlkXXQKBgQDel1UZrlO6G77iIeuxZ6SKd7Xv3fmJx0L6j7o8lE/mBSrcwPEX\nHDx/r2XkxURoJYOKiMdZfbt2Gx6awt3MytDBdap3x6RgV3yOQ/pNYcLvleMErqth\ngvRGtQwT3Qvx/tCa8a7VIoQLEqqVtndYkbc7YBQznl8KKmRtpf3xx+u8sQKBgAZf\nw+jxTJVwY7DjklcZ7lTR6e6pZ4uRcjlATLv0juW9m79oGv3tcKo0UsR78YCTTH2p\nwfkbxOdzJymFP2zM0Qxj3uH7ng5zXc+rmh6g9tRrhNUr6ukea1VdvrsgsXRXciHt\nWVTOM7e8pBFMkxPvazQqq9vfbS+5NfEb4eaBXMPhAoGBAKR+OHRhqGh4/6s6OQMf\nM0pfjLxO59YWMkFl9JfFOXWxg0z6TIzJ4azm7BbL0rjK4a3aj0Gwbl7FA5scd/hw\nYQiuah1dNBShH0m2PgIMWPkOzfmPefNNwcSQwrHjgI3HRSpYQOuyd3Bo94RMl1gH\ngWHs30YkYbC85HAHxqTRsUW9\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pt7vd@bd-cidades.iam.gserviceaccount.com",
+  "client_id": "118433791745858875692",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pt7vd%40bd-cidades.iam.gserviceaccount.com"
+}
